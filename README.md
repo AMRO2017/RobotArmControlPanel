@@ -7,3 +7,4 @@
 # 4-Displaying recently added Values to the database on seperate page.
 # Notes: i-All files should be placed in the same folder including the image
 #       ii-open the file 'index.php' by typing the directory into the browser bar address after starting XAMPP (MySQL) like: localhost/RobotArmControlPanel/index.php
+# Database name is robot_arm_control_panel contains two tables engines and options. Engines contain the angles values in degrees and options contain the start status 'off' or 'on'.
